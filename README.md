@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohith Muthusamy</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithmuthusamy&label=Profile%20views&color=0e75b6&style=flat" alt="rohithmuthusamy" /> </p>
-
-- 🔭 I’m currently working on **Flutter**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Any project**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
-
-- 💬 Ask me about **Angular developer**
 
 - 📫 How to reach me **rohithmuthusamy98@gmail.com**
 
