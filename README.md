@@ -2,20 +2,18 @@
 <h3 align="center">Frontend Developer | React • Angular • Firebase</h3>
 
 <p align="center">
-  🚀 Building modern web apps | 📍 Tamil Nadu, India  
+  🚀 <b>Building modern web apps</b> | 📍 Tamil Nadu, India  
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohith-muthusamy157/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" />
+  <a href="https://www.linkedin.com/in/rohith-muthusamy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
-
   <a href="mailto:rohithmuthusamy98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
   </a>
-
-  <a href="https://rohith-muthusamy.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome&style=flat-square" />
+  <a href="https://[rohith-muthusamy.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome&style=for-the-badge" />
   </a>
 </p>
 
@@ -23,82 +21,72 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Frontend Developer with strong experience in React & Angular  
-- 🔥 Passionate about building scalable, user-friendly interfaces  
-- 🌱 Currently exploring Firebase & Full-Stack workflows  
-- 🎯 Goal: Build impactful, user-focused products  
-
----
-
-## 🌐 Portfolio
-
-🚀 Explore my work, case studies, and demos:
-
-👉 https://rohith-muthusamy.web.app 
-
-> Showcasing projects, UI designs, and technical journey.
+- 💼 **Frontend Developer** with strong experience in **React & Angular**
+- 🔥 Passionate about building **scalable, user-friendly interfaces**
+- 🌱 Currently exploring **Firebase & Full-Stack workflows**
+- 🎯 Goal: Build impactful, user-focused products
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,redux,js,ts,html,css,ionic" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,angular,redux,js,ts,html,css,ionic" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,java,mysql,firebase" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,docker,postman,python" /> |
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,mysql,firebase" />
-</p>
+---
 
-### Tools
+## 🚀 Featured Projects
+
+### 🔹 [GPlay Converter](https://github.com/rohithmuthusamy/GPlay-Converter)
+> Convert and manage Google Play data efficiently.
+> `React` • `Firebase` • `Netlify`
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,python" />
+  <a href="https://gplay-converter.netlify.app"><b>Live Demo →</b></a>
 </p>
 
 ---
 
-## 📊 All Projects & Activity (Auto Updated)
-
-<p align="center">
-  <img
-    src="https://github.com/rohithmuthusamy/rohithmuthusamy/blob/main/github-metrics.svg"
-    alt="GitHub Metrics"
-  />
+### 🔹 [Coupon Dashboard](https://github.com/rohithmuthusamy/Coupon-Dashboard)
+> Real-time coupon tracking system with interactive UI.
+> `Angular` • `TypeScript` • `Vercel`
+<p>
+  <a href="https://coupon-dashboard.vercel.app"><b>Live Demo →</b></a>
 </p>
-
-> ⚡ Updated daily using GitHub Actions.
 
 ---
 
-## 📈 GitHub Stats
+### 🔹 [Order Tracking System](https://github.com/rohithmuthusamy/Order-Tracker)
+> Live order status dashboard for logistics management.
+> `React` • `Redux` • `Netlify`
+<p>
+  <a href="https://order-tracker-app.netlify.app"><b>Live Demo →</b></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rohithmuthusamy&show_icons=true&theme=tokyonight"
-    height="165"
-  />
+  <img src="https://github.com/rohithmuthusamy/rohithmuthusamy/blob/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+</p>
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rohithmuthusamy&theme=tokyonight"
-    height="165"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohithmuthusamy&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithmuthusamy&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithmuthusamy&layout=compact&theme=tokyonight&hide=html,css" height="180" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/rohith-muthusamy157/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+- 📧 **Email:** [rohithmuthusamy98@gmail.com](mailto:rohithmuthusamy98@gmail.com)
+- 💼 **LinkedIn:** [In/Rohith-Muthusamy](https://www.linkedin.com/in/rohith-muthusamy/)
+- 🌐 **Website:** [rohith-muthusamy.web.app](https://[rohith-muthusamy.web.app)
 
-- 📧 Email: rohithmuthusamy98@gmail.com  
-- 🌐 GitHub: https://github.com/rohithmuthusamy  
-
----
-
-⭐ If you like my work, consider starring my repositories — it helps a lot!
