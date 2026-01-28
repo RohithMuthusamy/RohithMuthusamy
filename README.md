@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square" />
   </a>
 
-  <a href="https://rohithmuthusamy.dev" target="_blank">
+  <a href="https://rohith-muthusamy.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome&style=flat-square" />
   </a>
 </p>
@@ -34,7 +34,7 @@
 
 🚀 Explore my work, case studies, and demos:
 
-👉 https://rohithmuthusamy.dev *(Coming Soon)*
+👉 https://rohith-muthusamy.web.app 
 
 > Showcasing projects, UI designs, and technical journey.
 
