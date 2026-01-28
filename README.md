@@ -9,8 +9,13 @@
   <a href="https://www.linkedin.com/in/rohith-muthusamy157/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" />
   </a>
+
   <a href="mailto:rohithmuthusamy98@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square" />
+  </a>
+
+  <a href="https://rohithmuthusamy.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome&style=flat-square" />
   </a>
 </p>
 
@@ -22,6 +27,16 @@
 - 🔥 Passionate about building scalable, user-friendly interfaces  
 - 🌱 Currently exploring Firebase & Full-Stack workflows  
 - 🎯 Goal: Build impactful, user-focused products  
+
+---
+
+## 🌐 Portfolio
+
+🚀 Explore my work, case studies, and demos:
+
+👉 https://rohithmuthusamy.dev *(Coming Soon)*
+
+> Showcasing projects, UI designs, and technical journey.
 
 ---
 
@@ -44,7 +59,7 @@
 
 ---
 
-## 📌 My Projects & GitHub Activity (Auto Updated)
+## 📊 All Projects & Activity (Auto Updated)
 
 <p align="center">
   <img
@@ -53,11 +68,11 @@
   />
 </p>
 
-> ⚡ This section is updated automatically every day using GitHub Actions.
+> ⚡ Updated daily using GitHub Actions.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img
@@ -75,9 +90,9 @@
 
 ## 🤝 Let’s Connect
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/rohith-muthusamy157/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
