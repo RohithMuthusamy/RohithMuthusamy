@@ -1,49 +1,41 @@
-name: Update GitHub Profile Metrics
-
-# Give write permission to GitHub Actions
-permissions:
-  contents: write
-
+name: GitHub Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows manual trigger
+  push: {branches: ["master", "main"]}
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          # Use default GitHub token
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Your Secret Token
+          token: ${{ secrets.METRICS_TOKEN }}
 
-          # Your username
+          # Options
           user: rohithmuthusamy
-
-          # Base sections
           template: classic
           base: header, repositories, activity, community
+          config_timezone: Asia/Kolkata
+          
+          # Output File Name
+          filename: github-metrics.svg
 
-          # Repository plugin
-          plugin_repositories: yes
-          plugin_repositories_order: stars
-          plugin_repositories_pinned: 8
-          plugin_repositories_affiliations: owner
-
-          # Language stats
+          # Languages Plugin
           plugin_languages: yes
+          plugin_languages_ignored: html, css
           plugin_languages_limit: 8
-
-          # Contribution habits
+          
+          # Habits Plugin
           plugin_habits: yes
-          plugin_habits_days: 14
           plugin_habits_facts: yes
-
-          # Achievements
+          plugin_habits_days: 14
+          
+          # Achievements Plugin
           plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
