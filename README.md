@@ -20,8 +20,8 @@
 
 - 💼 Frontend Developer with strong experience in React & Angular  
 - 🔥 Passionate about building scalable, user-friendly interfaces  
-- 🌱 Currently exploring advanced Firebase & full-stack workflows  
-- 🎯 Goal: Build impactful digital products
+- 🌱 Currently exploring Firebase & Full-Stack workflows  
+- 🎯 Goal: Build impactful, user-focused products  
 
 ---
 
@@ -44,36 +44,46 @@
 
 ---
 
-
-## 📌 My Projects & GitHub Activity 
+## 📌 My Projects & GitHub Activity (Auto Updated)
 
 <p align="center">
-  <img src="https://github.com/rohithmuthusamy/rohithmuthusamy/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img
+    src="https://github.com/rohithmuthusamy/rohithmuthusamy/blob/main/github-metrics.svg"
+    alt="GitHub Metrics"
+  />
 </p>
 
----
-
-
+> ⚡ This section is updated automatically every day using GitHub Actions.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohithmuthusamy&show_icons=true&theme=tokyonight" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rohithmuthusamy&show_icons=true&theme=tokyonight"
+    height="165"
+  />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithmuthusamy&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rohithmuthusamy&theme=tokyonight"
+    height="165"
+  />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rohith-muthusamy157/
-- 📧 Email: rohithmuthusamy98@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/rohith-muthusamy157/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" />
+  </a>
+</p>
+
+- 📧 Email: rohithmuthusamy98@gmail.com  
+- 🌐 GitHub: https://github.com/rohithmuthusamy  
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+⭐ If you like my work, consider starring my repositories — it helps a lot!
