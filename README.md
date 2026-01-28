@@ -44,21 +44,12 @@
 
 ---
 
-## 📌 Featured Projects
 
-### 🔹 GPlay Converter
-> Convert and manage Google Play data efficiently  
-Tech: React • Firebase • APIs
 
-### 🔹 Coupon Dashboard
-> Real-time coupon tracking system  
-Tech: Vite • React • Firebase Auth
+## 📌 My Projects
 
-### 🔹 Order Tracking System
-> Live order status & user dashboard  
-Tech: Angular • Firebase • Charts
+![Metrics](https://github.com/rohithmuthusamy/rohithmuthusamy/blob/main/github-metrics.svg)
 
-➡️ **More Projects:** [Visit My GitHub](https://github.com/rohithmuthusamy)
 
 ---
 
