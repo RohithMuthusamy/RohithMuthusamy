@@ -48,7 +48,7 @@ I’m a passionate **Frontend Developer** who loves building clean, high-perform
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,python,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,python,vercel" />
 </p>
 
 ---
