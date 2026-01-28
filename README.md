@@ -72,37 +72,6 @@ I’m a passionate **Frontend Developer** who loves building clean, high-perform
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github.com/rohithmuthusamy/rohithmuthusamy/blob/main/github-metrics.svg"
-    width="100%"
-    alt="GitHub Metrics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rohithmuthusamy&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rohithmuthusamy&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithmuthusamy&layout=compact&theme=tokyonight&hide=html,css"
-    height="180"
-  />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 I’m always open to collaborations, freelance work, and job opportunities.
