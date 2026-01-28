@@ -45,10 +45,14 @@
 ---
 
 
+## 📌 My Projects & GitHub Activity 
 
-## 📌 My Projects
+<p align="center">
+  <img src="https://github.com/rohithmuthusamy/rohithmuthusamy/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
-![Metrics](https://github.com/rohithmuthusamy/rohithmuthusamy/blob/main/github-metrics.svg)
+---
+
 
 
 ---
